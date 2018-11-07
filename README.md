@@ -1,0 +1,1 @@
+Simple example code for authing with Google and sending notifications via Firebase
